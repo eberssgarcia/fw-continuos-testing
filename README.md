@@ -5,7 +5,7 @@ desarrollado con Java 1.8.
 
 # Herramientas y/o tecnologías a usar
 
-* **Intellij IDEA:** Este IDE no permitirá crear proyectos.
+* **Intellij IDEA:** Este IDE permitirá crear proyectos.
 * **JDK Java verisón 1.8:** Configurar como variable de entorno.
 * **Depedencias Selenium:** Estas dependencias se debe ingresar en el POM.XML
 * **apache-maven-3.8.6:** Descargar package y configurar como variable de entorno.

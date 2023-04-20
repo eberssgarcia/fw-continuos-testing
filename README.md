@@ -23,14 +23,14 @@ tests.
 
 1. **Cucumber Java**: Esta dependencia te permite utilizar Cucumber en tu proyecto Java.
 
-   **`Repositorio`**: https://mvnrepository.com/artifact/io.cucumber/cucumber-java
+**`Repositorio`**: https://mvnrepository.com/artifact/io.cucumber/cucumber-java
 
-        <dependency>
-            <groupId>io.cucumber</groupId>
-            <artifactId>cucumber-java</artifactId>
-            <version>7.11.1</version>
-            <scope>compile</scope>
-        </dependency>
+       <dependency>
+           <groupId>io.cucumber</groupId>
+           <artifactId>cucumber-java</artifactId>
+           <version>7.11.1</version>
+           <scope>compile</scope>
+       </dependency>
 
 2. **Cucumber JUnit**: Esta dependencia te permite ejecutar pruebas de Cucumber con JUnit.
 
